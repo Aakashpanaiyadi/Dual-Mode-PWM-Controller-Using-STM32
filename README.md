@@ -1,4 +1,4 @@
-# STM32 Motor Control with Local and Remote Operation
+# Dual-Mode-PWM-Controller-Using-STM32
 
 ## Introduction
 
